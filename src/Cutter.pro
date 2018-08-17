@@ -298,6 +298,9 @@ HEADERS  += \
     dialogs/SetFunctionVarTypes.h \
     common/ColorSchemeFileSaver.h \
     widgets/ColorSchemePrefWidget.h 
+    widgets/ColorSchemePrefWidget.h \
+    dialogs/SetFunctionVarTypes.h \
+    common/Json.h
 
 FORMS    += \
     dialogs/AboutDialog.ui \
